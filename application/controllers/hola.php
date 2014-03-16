@@ -36,6 +36,12 @@ class Hola extends CI_Controller
 	{
 		echo "hola",$nombre,"tienes esta edad",$edad;
 	}
+	private function argumentos2($nombre2='horacio')
+	{
+		# code	}
+		echo "hola";
+
+	}
 }
 
 ?>
